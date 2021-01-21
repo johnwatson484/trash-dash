@@ -1,3 +1,4 @@
+ti
 menu[0]="Play";
 menu[1]="Load";
 menu[2]="Options"
