@@ -16,3 +16,7 @@ if (keyboard_check(vk_down)) {
 if(distance_to_object(obj_bin) <= 5) && (keyboard_check_pressed(ord("E"))) with (obj_bin) {
 	global.has_bin = 1;
 }
+
+if(keyboard_check_pressed(ord("R"))) {
+	global.has_bin = 0;
+}
