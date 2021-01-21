@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_bin",
+    "path": "sprites/spr_bin/spr_bin.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

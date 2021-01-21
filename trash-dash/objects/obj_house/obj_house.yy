@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_truck",
-    "path": "sprites/spr_truck/spr_truck.yy",
+    "name": "spr_house",
+    "path": "sprites/spr_house/spr_house.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_truck",
+  "name": "obj_house",
   "tags": [],
   "resourceType": "GMObject",
 }

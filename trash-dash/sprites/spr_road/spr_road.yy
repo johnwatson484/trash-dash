@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 31,
+  "bbox_right": 63,
   "bbox_top": 0,
-  "bbox_bottom": 31,
+  "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 32,
-  "height": 32,
+  "width": 64,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"1619d058-8df0-4c71-b548-a334fab8ef60","path":"sprites/spr_bin/spr_bin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1619d058-8df0-4c71-b548-a334fab8ef60","path":"sprites/spr_bin/spr_bin.yy",},"LayerId":{"name":"7baa7ee8-a70a-42a4-80f2-996340f963e7","path":"sprites/spr_bin/spr_bin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_bin","path":"sprites/spr_bin/spr_bin.yy",},"resourceVersion":"1.0","name":"1619d058-8df0-4c71-b548-a334fab8ef60","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f426a2ca-b849-4b28-929c-c5bfbd50d59e","path":"sprites/spr_road/spr_road.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f426a2ca-b849-4b28-929c-c5bfbd50d59e","path":"sprites/spr_road/spr_road.yy",},"LayerId":{"name":"3f316f41-ecdc-443c-808a-f71beff2f406","path":"sprites/spr_road/spr_road.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_road","path":"sprites/spr_road/spr_road.yy",},"resourceVersion":"1.0","name":"f426a2ca-b849-4b28-929c-c5bfbd50d59e","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_bin","path":"sprites/spr_bin/spr_bin.yy",},
+    "spriteId": {"name":"spr_road","path":"sprites/spr_road/spr_road.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"0d299b3d-ae0c-4f0d-bf4d-fcb3909d2392","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1619d058-8df0-4c71-b548-a334fab8ef60","path":"sprites/spr_bin/spr_bin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f10895fe-549e-4b6b-a14e-908d9ff32cad","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f426a2ca-b849-4b28-929c-c5bfbd50d59e","path":"sprites/spr_road/spr_road.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_bin","path":"sprites/spr_bin/spr_bin.yy",},
+    "parent": {"name":"spr_road","path":"sprites/spr_road/spr_road.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_bin",
+    "name": "spr_road",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7baa7ee8-a70a-42a4-80f2-996340f963e7","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3f316f41-ecdc-443c-808a-f71beff2f406","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_bin",
+  "name": "spr_road",
   "tags": [],
   "resourceType": "GMSprite",
 }
