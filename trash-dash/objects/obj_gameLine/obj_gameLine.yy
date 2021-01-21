@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_truck",
-    "path": "sprites/spr_truck/spr_truck.yy",
+    "name": "spr_gameLine",
+    "path": "sprites/spr_gameLine/spr_gameLine.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_truck","path":"objects/obj_truck/obj_truck.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_gameLine","path":"objects/obj_gameLine/obj_gameLine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"parent":{"name":"obj_gameLine","path":"objects/obj_gameLine/obj_gameLine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_truck",
+  "name": "obj_gameLine",
   "tags": [],
   "resourceType": "GMObject",
 }
