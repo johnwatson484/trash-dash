@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_bin",
-    "path": "sprites/spr_bin/spr_bin.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -10,8 +7,8 @@
   "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
-  "physicsShape": 1,
-  "physicsGroup": 1,
+  "physicsShape": 0,
+  "physicsGroup": 0,
   "physicsDensity": 0.5,
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 0.1,
@@ -21,7 +18,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_pavement","path":"objects/obj_pavement/obj_pavement.yy",},"parent":{"name":"obj_bin","path":"objects/obj_bin/obj_bin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Obj_Menu","path":"objects/Obj_Menu/Obj_Menu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"Obj_Menu","path":"objects/Obj_Menu/Obj_Menu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_bin",
+  "name": "Obj_Menu",
   "tags": [],
   "resourceType": "GMObject",
 }

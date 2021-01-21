@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_bin",
-    "path": "sprites/spr_bin/spr_bin.yy",
+    "name": "spr_play",
+    "path": "sprites/spr_play/spr_play.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,16 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_pavement","path":"objects/obj_pavement/obj_pavement.yy",},"parent":{"name":"obj_bin","path":"objects/obj_bin/obj_bin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_playButton","path":"objects/obj_playButton/obj_playButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Menus",
+    "path": "folders/Objects/Menus.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_bin",
+  "name": "obj_playButton",
   "tags": [],
   "resourceType": "GMObject",
 }
