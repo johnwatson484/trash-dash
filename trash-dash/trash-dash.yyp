@@ -24,6 +24,7 @@
     {"id":{"name":"obj_truck","path":"objects/obj_truck/obj_truck.yy",},"order":1,},
     {"id":{"name":"obj_game_soundtrack","path":"objects/obj_game_soundtrack/obj_game_soundtrack.yy",},"order":7,},
     {"id":{"name":"spr_bin","path":"sprites/spr_bin/spr_bin.yy",},"order":0,},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":15,},
     {"id":{"name":"Simple_Menu","path":"extensions/Simple_Menu/Simple_Menu.yy",},"order":0,},
     {"id":{"name":"Obj_Menu","path":"objects/Obj_Menu/Obj_Menu.yy",},"order":9,},
     {"id":{"name":"spr_pavement","path":"sprites/spr_pavement/spr_pavement.yy",},"order":6,},
