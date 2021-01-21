@@ -16,14 +16,14 @@ for (i=0;i<array_length_1d(menu);i++)
             switch(i)
             {
                 case 0:
-                    room_goto(Room_Game); //menu[0]
+                    room_goto(Room1); //menu[0]
                 break;
                 case 1: //menu[1] 
                 break;
                 case 2: //menu[2]
                 break;
                 case 3: 
-                    url_open("http://prudya.ml") //menu[3]
+                    url_open("https://github.com/johnwatson484/trash-dash") //menu[3]
                 break;
                 case 4: 
                     game_end(); //menu[4]
