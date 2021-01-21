@@ -1,8 +1,9 @@
 draw_set_halign(fa_center); //Horizontal alignment
 draw_set_valign(fa_middle);  //Vertical alignment
 draw_set_font(Font_Menu);
-menu_x=room_width/2; 
-menu_y=100;
+menu_x=(room_width/2); 
+//menu_y=(room_width/2); 
+menu_y=200;
 for (i=0;i<array_length_1d(menu);i++)
 {
     draw_set_color(c_black);//Shadow color
