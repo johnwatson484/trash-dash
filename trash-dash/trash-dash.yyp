@@ -8,6 +8,7 @@
     {"id":{"name":"obj_gameLine","path":"objects/obj_gameLine/obj_gameLine.yy",},"order":6,},
     {"id":{"name":"spr_road","path":"sprites/spr_road/spr_road.yy",},"order":1,},
     {"id":{"name":"obj_house","path":"objects/obj_house/obj_house.yy",},"order":5,},
+    {"id":{"name":"obj_sound_pause","path":"objects/obj_sound_pause/obj_sound_pause.yy",},"order":12,},
     {"id":{"name":"obj_bin","path":"objects/obj_bin/obj_bin.yy",},"order":0,},
     {"id":{"name":"compatibility_report_210121_1413141314","path":"notes/compatibility_report_210121_1413141314/compatibility_report_210121_1413141314.yy",},"order":0,},
     {"id":{"name":"obj_dog","path":"objects/obj_dog/obj_dog.yy",},"order":3,},
