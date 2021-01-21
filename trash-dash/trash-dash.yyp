@@ -1,6 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"obj_grass","path":"objects/obj_grass/obj_grass.yy",},"order":12,},
     {"id":{"name":"Font_Menu","path":"fonts/Font_Menu/Font_Menu.yy",},"order":0,},
     {"id":{"name":"snd_game","path":"sounds/snd_game/snd_game.yy",},"order":0,},
     {"id":{"name":"obj_road","path":"objects/obj_road/obj_road.yy",},"order":4,},
@@ -8,6 +7,7 @@
     {"id":{"name":"path_truck_movement","path":"paths/path_truck_movement/path_truck_movement.yy",},"order":0,},
     {"id":{"name":"obj_gameLine","path":"objects/obj_gameLine/obj_gameLine.yy",},"order":6,},
     {"id":{"name":"spr_road","path":"sprites/spr_road/spr_road.yy",},"order":1,},
+    {"id":{"name":"obj_grass","path":"objects/obj_grass/obj_grass.yy",},"order":12,},
     {"id":{"name":"obj_house","path":"objects/obj_house/obj_house.yy",},"order":5,},
     {"id":{"name":"obj_bin","path":"objects/obj_bin/obj_bin.yy",},"order":0,},
     {"id":{"name":"compatibility_report_210121_1413141314","path":"notes/compatibility_report_210121_1413141314/compatibility_report_210121_1413141314.yy",},"order":0,},
@@ -16,6 +16,7 @@
     {"id":{"name":"spr_house","path":"sprites/spr_house/spr_house.yy",},"order":2,},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},"order":7,},
     {"id":{"name":"spr_truck","path":"sprites/spr_truck/spr_truck.yy",},"order":4,},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":15,},
     {"id":{"name":"spr_gameLine","path":"sprites/spr_gameLine/spr_gameLine.yy",},"order":5,},
     {"id":{"name":"Room_Menu","path":"rooms/Room_Menu/Room_Menu.yy",},"order":0,},
     {"id":{"name":"spr_person","path":"sprites/spr_person/spr_person.yy",},"order":3,},
