@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Pause sound
 // You can write your code in this editor
 if keyboard_check_pressed(ord("P")) || keyboard_check_pressed(ord("p"))
 {
