@@ -35,6 +35,7 @@
     {"id":{"name":"Obj_Menu","path":"objects/Obj_Menu/Obj_Menu.yy",},"order":9,},
     {"id":{"name":"spr_pavement","path":"sprites/spr_pavement/spr_pavement.yy",},"order":6,},
     {"id":{"name":"obj_hedge","path":"objects/obj_hedge/obj_hedge.yy",},"order":2,},
+    {"id":{"name":"obj_sound_pause","path":"objects/obj_sound_pause/obj_sound_pause.yy",},"order":2,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
