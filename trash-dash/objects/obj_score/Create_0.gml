@@ -1,3 +1,3 @@
-/// @description Insert description here
+/// @description Set bins remaining
 // You can write your code in this editor
-global.binsRemaining = 3
+global.binsRemaining = instance_number(obj_bin)
