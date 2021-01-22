@@ -1,5 +1,6 @@
 /// @description Complete bin
 // You can write your code in this editor
 
-global.binsRemaining -= 1
-instance_destroy()
+with(global.bin) {
+	ds_list_add(global.binsCollected, global.bin.id);
+}
