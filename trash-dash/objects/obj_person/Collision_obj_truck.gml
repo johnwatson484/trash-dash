@@ -10,9 +10,9 @@ if(obj_person.sprite_index != spr_person_dead)
   instance_create_depth(personX, personY, 2, obj_person_splat)
   obj_person.x = obj_person.x
   obj_person.sprite_index = spr_person_dead
-  global.gameOverMessage = "You were run over by the truck"
-  global.alive = false
+  global.gameOverMessage = "You were run over by the truck"  
   obj_person.gravity = -0.05
   alarm[1] = room_speed * 1;
   alarm[0] = room_speed * 3;
+  global.alive = false
 }
