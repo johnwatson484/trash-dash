@@ -21,3 +21,5 @@ if(keyboard_check_pressed(ord("R"))) {
 	global.has_bin = 0;
 }
 
+x=clamp(x, 0, room_width);
+y=clamp(y, 0, room_height);

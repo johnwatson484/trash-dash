@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "spriteId": {
     "name": "spr_binman",
@@ -37,4 +38,47 @@
   "name": "obj_person",
   "tags": [],
   "resourceType": "GMObject",
+=======
+{
+  "spriteId": {
+    "name": "spr_binman",
+    "path": "sprites/spr_binman/spr_binman.yy",
+  },
+  "solid": true,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": null,
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_truck","path":"objects/obj_truck/obj_truck.yy",},"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_house1","path":"objects/obj_house1/obj_house1.yy",},"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_house2","path":"objects/obj_house2/obj_house2.yy",},"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_house3","path":"objects/obj_house3/obj_house3.yy",},"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_house4","path":"objects/obj_house4/obj_house4.yy",},"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Objects",
+    "path": "folders/Objects.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_person",
+  "tags": [],
+  "resourceType": "GMObject",
+>>>>>>> 01d98d5e3787f10f61f1d89eddb29ad5ea186640
 }
