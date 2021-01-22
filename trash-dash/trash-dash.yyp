@@ -47,6 +47,7 @@
     {"id":{"name":"obj_menu_title","path":"objects/obj_menu_title/obj_menu_title.yy",},"order":21,},
     {"id":{"name":"obj_truck","path":"objects/obj_truck/obj_truck.yy",},"order":1,},
     {"id":{"name":"obj_game_soundtrack","path":"objects/obj_game_soundtrack/obj_game_soundtrack.yy",},"order":12,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":2,},
     {"id":{"name":"spr_bin","path":"sprites/spr_bin/spr_bin.yy",},"order":0,},
     {"id":{"name":"obj_mad_dog","path":"objects/obj_mad_dog/obj_mad_dog.yy",},"order":19,},
     {"id":{"name":"Simple_Menu","path":"extensions/Simple_Menu/Simple_Menu.yy",},"order":0,},
@@ -75,6 +76,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room_Menu","path":"rooms/Room_Menu/Room_Menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
