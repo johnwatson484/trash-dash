@@ -63,6 +63,7 @@
     {"id":{"name":"snd_angel","path":"sounds/snd_angel/snd_angel.yy",},"order":0,},
     {"id":{"name":"woof","path":"sounds/woof/woof.yy",},"order":0,},
     {"id":{"name":"obj_bin_collection","path":"objects/obj_bin_collection/obj_bin_collection.yy",},"order":28,},
+    {"id":{"name":"obj_weather","path":"objects/obj_weather/obj_weather.yy",},"order":27,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
