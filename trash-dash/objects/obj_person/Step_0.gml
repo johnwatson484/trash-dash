@@ -39,8 +39,4 @@ if(keyboard_check_pressed(ord("R"))) {
 }
 
 x=clamp(x, 0, room_width);
-<<<<<<< Updated upstream
 y=clamp(y, 0, room_height);
-=======
-y=clamp(y, 0, room_height);
->>>>>>> Stashed changes
