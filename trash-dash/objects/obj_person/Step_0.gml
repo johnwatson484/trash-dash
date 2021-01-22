@@ -20,3 +20,4 @@ if(distance_to_object(obj_bin) <= 5) && (keyboard_check_pressed(ord("E"))) with 
 if(keyboard_check_pressed(ord("R"))) {
 	global.has_bin = 0;
 }
+

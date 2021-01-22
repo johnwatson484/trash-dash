@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_happy_dawg",
-    "path": "sprites/spr_happy_dawg/spr_happy_dawg.yy",
+    "name": "spr_mad_dawg",
+    "path": "sprites/spr_mad_dawg/spr_mad_dawg.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_dog","path":"objects/obj_dog/obj_dog.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_mad_dog","path":"objects/obj_mad_dog/obj_mad_dog.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"parent":{"name":"obj_mad_dog","path":"objects/obj_mad_dog/obj_mad_dog.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_dog",
+  "name": "obj_mad_dog",
   "tags": [],
   "resourceType": "GMObject",
 }
