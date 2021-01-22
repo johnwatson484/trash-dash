@@ -1,1 +1,1 @@
-audio_stop_sound(snd_angel)
+audio_stop_sound(global.snd_angel)
