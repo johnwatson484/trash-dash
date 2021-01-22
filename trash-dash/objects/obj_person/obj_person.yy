@@ -12,7 +12,7 @@
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
-  "physicsDensity": 0.5,
+  "physicsDensity": 0.5,s
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 0.1,
   "physicsAngularDamping": 0.1,
@@ -24,7 +24,7 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_truck","path":"objects/obj_truck/obj_truck.yy",},"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_house","path":"objects/obj_house/obj_house.yy",},"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
