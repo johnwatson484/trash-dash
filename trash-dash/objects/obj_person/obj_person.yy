@@ -28,8 +28,11 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_house2","path":"objects/obj_house2/obj_house2.yy",},"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_house3","path":"objects/obj_house3/obj_house3.yy",},"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_house4","path":"objects/obj_house4/obj_house4.yy",},"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_mad_dog","path":"objects/obj_mad_dog/obj_mad_dog.yy",},"parent":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [],
+  "properties": [
+    {"varType":1,"value":"100","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"player_life","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
