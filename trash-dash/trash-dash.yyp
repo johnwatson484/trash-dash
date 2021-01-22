@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Font_Menu","path":"fonts/Font_Menu/Font_Menu.yy",},"order":0,},
+    {"id":{"name":"obj_gameover","path":"objects/obj_gameover/obj_gameover.yy",},"order":17,},
     {"id":{"name":"spr_bin_man_1","path":"sprites/spr_bin_man_1/spr_bin_man_1.yy",},"order":7,},
     {"id":{"name":"snd_game","path":"sounds/snd_game/snd_game.yy",},"order":0,},
     {"id":{"name":"spr_person_dead","path":"sprites/spr_person_dead/spr_person_dead.yy",},"order":11,},
@@ -19,6 +20,7 @@
     {"id":{"name":"obj_house1","path":"objects/obj_house1/obj_house1.yy",},"order":5,},
     {"id":{"name":"obj_house2","path":"objects/obj_house2/obj_house2.yy",},"order":5,},
     {"id":{"name":"obj_house3","path":"objects/obj_house3/obj_house3.yy",},"order":5,},
+    {"id":{"name":"obj_world","path":"objects/obj_world/obj_world.yy",},"order":16,},
     {"id":{"name":"obj_house4","path":"objects/obj_house4/obj_house4.yy",},"order":5,},
     {"id":{"name":"obj_bin","path":"objects/obj_bin/obj_bin.yy",},"order":0,},
     {"id":{"name":"spr_binman","path":"sprites/spr_binman/spr_binman.yy",},"order":10,},
