@@ -5,6 +5,7 @@
     {"id":{"name":"spr_bin_man_1","path":"sprites/spr_bin_man_1/spr_bin_man_1.yy",},"order":7,},
     {"id":{"name":"snd_game","path":"sounds/snd_game/snd_game.yy",},"order":0,},
     {"id":{"name":"spr_person_dead","path":"sprites/spr_person_dead/spr_person_dead.yy",},"order":11,},
+    {"id":{"name":"woof","path":"sounds/woof/woof.yy",},"order":1,},
     {"id":{"name":"obj_road","path":"objects/obj_road/obj_road.yy",},"order":4,},
     {"id":{"name":"obj_person_splat","path":"objects/obj_person_splat/obj_person_splat.yy",},"order":15,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":10,},
