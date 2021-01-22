@@ -2,5 +2,10 @@
 // You can write your code in this editor
 
 if(global.rain) {
-	alarm[0] = 0.1 * room_speed
+	rnd = irandom(10)
+	raindrops = rnd * 10
+	var i;
+	for(i = 0; i < raindrops; i+=1) {
+		instance_create_depth(irandom(room_width),0,-900,obj_raindrop)
+	}
 }
