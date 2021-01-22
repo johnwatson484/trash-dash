@@ -61,6 +61,7 @@
     {"id":{"name":"snd_splat","path":"sounds/snd_splat/snd_splat.yy",},"order":0,},
     {"id":{"name":"snd_angel","path":"sounds/snd_angel/snd_angel.yy",},"order":0,},
     {"id":{"name":"woof","path":"sounds/woof/woof.yy",},"order":0,},
+    {"id":{"name":"obj_bin_collection","path":"objects/obj_bin_collection/obj_bin_collection.yy",},"order":28,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
