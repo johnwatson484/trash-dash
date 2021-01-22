@@ -18,7 +18,6 @@
     {"id":{"name":"obj_house","path":"objects/obj_house/obj_house.yy",},"order":5,},
     {"id":{"name":"obj_house1","path":"objects/obj_house1/obj_house1.yy",},"order":5,},
     {"id":{"name":"obj_house2","path":"objects/obj_house2/obj_house2.yy",},"order":5,},
-    {"id":{"name":"obj_flowers","path":"objects/obj_flowers/obj_flowers.yy",},"order":16,},
     {"id":{"name":"obj_house3","path":"objects/obj_house3/obj_house3.yy",},"order":5,},
     {"id":{"name":"obj_house4","path":"objects/obj_house4/obj_house4.yy",},"order":5,},
     {"id":{"name":"obj_bin","path":"objects/obj_bin/obj_bin.yy",},"order":0,},
@@ -53,7 +52,6 @@
     {"id":{"name":"spr_pavement","path":"sprites/spr_pavement/spr_pavement.yy",},"order":6,},
     {"id":{"name":"spr_new_bin","path":"sprites/spr_new_bin/spr_new_bin.yy",},"order":9,},
     {"id":{"name":"obj_hedge","path":"objects/obj_hedge/obj_hedge.yy",},"order":2,},
-    {"id":{"name":"spr_flowers","path":"sprites/spr_flowers/spr_flowers.yy",},"order":13,},
     {"id":{"name":"obj_sound_pause","path":"objects/obj_sound_pause/obj_sound_pause.yy",},"order":2,},
   ],
   "Options": [
