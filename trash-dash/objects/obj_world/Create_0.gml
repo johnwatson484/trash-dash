@@ -3,3 +3,4 @@
 
 global.restart = false
 global.alive = true
+global.gameOverMessage = ""
