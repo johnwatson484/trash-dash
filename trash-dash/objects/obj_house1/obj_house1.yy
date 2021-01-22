@@ -3,7 +3,7 @@
     "name": "spr_house1",
     "path": "sprites/spr_house1/spr_house1.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
